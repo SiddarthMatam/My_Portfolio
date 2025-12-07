@@ -1,4 +1,4 @@
-.sub-btn{
+.sub-btn {
     font-size: 20px;
     padding: 10px 20px;
     margin: 0 10px;
@@ -9,7 +9,7 @@
     cursor: pointer;
 }
 
-.add-btn{
+.add-btn {
     font-size: 20px;
     padding: 10px 20px;
     margin: 0 10px;
@@ -20,32 +20,32 @@
     cursor: pointer;
 }
 
-.main-heading{
+.main-heading {
     font-size: 36px;
-    font-family:monospace;
-    color:#fff;
+    font-family: monospace;
+    color: #fff;
 }
 
-.total-container{
-    background-color:rgb(136, 192, 183);
-    height:100vh;
+.total-container {
+    background-color: rgb(136, 192, 183);
+    height: 100vh;
     text-align: center;
     width: 400px;
     height: 200px;
     margin-left: 500px;
-    margin-top:50px;
-    padding-bottom:45px;
-    padding-top:45px;
+    margin-top: 50px;
+    padding-bottom: 45px;
+    padding-top: 45px;
     border-radius: 15px;
 }
 
-.counter{
+.counter {
     font-weight: bold;
-    color:#ffffff;
-    padding:10px;
+    color: #ffffff;
+    padding: 10px;
 }
 
-.reset-btn{
+.reset-btn {
     font-size: 18px;
     padding: 8px 16px;
     margin-top: 15px;

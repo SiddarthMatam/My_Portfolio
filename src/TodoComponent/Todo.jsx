@@ -1,4 +1,4 @@
-import {useState} from "react";
+import { useState } from "react";
 import TodoItem from "./TodoItem";
 import "./Todo.css";
 
@@ -27,7 +27,6 @@ export default function Todo() {
     return (
         <div className="todo-container">
             <h1 className="todo-heading">To-Do List</h1>
-
             <div className="input-row">
                 <input
                     className="todo-input"
@@ -41,12 +40,10 @@ export default function Todo() {
                         }
                     }}
                 />
-
                 <button className="add-btn" onClick={addTodo}>
                     Add
                 </button>
             </div>
-
             <div className="todo-list">
                 {todos.map(each => (
                     <TodoItem

@@ -1,13 +1,12 @@
-import React from 'react'
-import {Link} from "react-router-dom"
+import { Link } from "react-router-dom"
 
 function About() {
   return (
     <>
-    <h1>About</h1>
+      <h1>About</h1>
       <Link to="/">
-    <button>Back</button>
-    </Link>
+        <button>Back</button>
+      </Link>
     </>
   )
 }

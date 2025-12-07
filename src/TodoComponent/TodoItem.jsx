@@ -1,6 +1,6 @@
 import "./Todo.css";
 
-export default function TodoItem({ todo, deleteTodo }) {
+function TodoItem({ todo, deleteTodo }) {
     const { id, title } = todo;
 
     return (
@@ -12,3 +12,5 @@ export default function TodoItem({ todo, deleteTodo }) {
         </div>
     );
 }
+
+export default TodoItem

@@ -1,41 +1,41 @@
-.container{
+.container {
     text-align: center;
 }
 
-.btn{
-    width:70px;
+.btn {
+    width: 70px;
     height: 70px;
     margin: 10px;
     border-radius: 100%;
-    border:none;
-    font-size:20px;
-    font-weight:bold;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
     text-align: center;
     cursor: pointer;
 }
 
-.nums{
+.nums {
     background-color: #e8eaf0;
-    color:#0a0f29;
+    color: #0a0f29;
 }
 
-.operation{
+.operation {
     background-color: #a6a6a7;
-    color:#fff;
+    color: #fff;
 }
 
-.calc{
+.calc {
     background-color: #f5b580;
-    color:#fff;
+    color: #fff;
 }
 
-.input-box{
+.input-box {
     width: 25%;
     height: 50px;
     font-size: 24px;
     text-align: right;
     margin-bottom: 10px;
-    border-radius:5px;
+    border-radius: 5px;
     background-color: #fff;
-    color:#000;
+    color: #000;
 }
