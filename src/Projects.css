@@ -1,0 +1,25 @@
+.project-cards{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+
+.project-card{
+    padding:30px;
+    margin:25px;
+    height:400px;
+    width:450px;
+    border-radius:60px;
+    display:flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+.main-heading{
+    text-align:center;
+    color:#000;
+}
+
+.project-name{
+    text-align:center;
+}

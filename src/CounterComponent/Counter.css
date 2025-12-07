@@ -1,0 +1,57 @@
+.sub-btn{
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    background-color: #ff0000;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.add-btn{
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    background-color: #00ff08;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.main-heading{
+    font-size: 36px;
+    font-family:monospace;
+    color:#fff;
+}
+
+.total-container{
+    background-color:rgb(136, 192, 183);
+    height:100vh;
+    text-align: center;
+    width: 400px;
+    height: 200px;
+    margin-left: 500px;
+    margin-top:50px;
+    padding-bottom:45px;
+    padding-top:45px;
+    border-radius: 15px;
+}
+
+.counter{
+    font-weight: bold;
+    color:#ffffff;
+    padding:10px;
+}
+
+.reset-btn{
+    font-size: 18px;
+    padding: 8px 16px;
+    margin-top: 15px;
+    background-color: #008CBA;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
